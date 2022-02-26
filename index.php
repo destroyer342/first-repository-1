@@ -1,4 +1,4 @@
 <?php
 
-echo "Learning Git 2nd version";
+echo "Learning Git 3rd version";
 ?>
